@@ -1,8 +1,3 @@
-const API_KEY = config.API_KEY
-const MAP_ID = config.MAP_ID
-const STYLE_ID = config.STYLE_ID
-
-
 // GeoJSON url
 const url = 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson'
 //  Get GeoJSON using D3
