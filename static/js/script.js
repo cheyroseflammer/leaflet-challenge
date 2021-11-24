@@ -21,9 +21,9 @@ function createMap(earthquakeLayer) {
       zoomOffset: -1,
       maxZoom: 17,
       minZoom: 2,
-      accessToken: API_KEY,
-      id: MAP_ID,
-      style: STYLE_ID,
+      accessToken: "pk.eyJ1IjoiY2hleWZsYW1tZXIiLCJhIjoiY2t3Mnoydm0wMjEwejJ2cGFlM2ZrZGp6NyJ9.eAtIi0WdUCOH0hsjDNb5kw",
+      id: "cheyflammer",
+      style: "ckw87tl205fx015o67gkkwppp",
     }
   )
   // Defining map view
